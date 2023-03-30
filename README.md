@@ -1,11 +1,12 @@
-#Robot Search App
+## Robot Search App
 
 This web app uses a few important concepts in React. It was mainly created for education purposes but gradually ended as a functional web app.
 Some features that were challenging and yet fun to accomplish were:
-1 - The loading page (and creating the spinners) before sending a request to the api in order to receive the robots details.
-2 - Communicating the searchbox and the cards to update instantly once the user searches for a robot.
-3 - Adding the scroll feature for the cards so the searchbox stays on top of the page
-4 - Returning "No robots found" message without being in a scrollable template
+
+- The loading page (and creating the spinners) before sending a request to the api in order to receive the robots details.
+- Communicating the searchbox and the cards to update instantly once the user searches for a robot.
+- Adding the scroll feature for the cards so the searchbox stays on top of the page
+- Returning "No robots found" message without being in a scrollable template
 
 ## Getting Started with Create React App
 
